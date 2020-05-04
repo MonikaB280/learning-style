@@ -1,0 +1,25 @@
+h1{
+font-size: 69px;
+color: hotpink;
+}
+
+h2{
+font-size: 49px;
+color: indianred;
+}
+
+.big{
+font-size: 80px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.big.uppercase{
+color: lightblue;
+}
+
+span{
+color: lightseagreen;
+}
